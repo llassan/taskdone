@@ -1,0 +1,351 @@
+{
+  "brand": "TaskDone",
+  "tagline": "Nous postulons aux emplois pour vous.",
+
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "credentials": "Identifiants",
+    "plans": "Plans",
+    "myWork": "Mon Travail",
+    "earnings": "Gains",
+    "login": "Connexion",
+    "getStarted": "Commencer Gratuitement",
+    "logout": "Déconnexion",
+    "worker": "Travailleur",
+    "client": "Client"
+  },
+
+  "hero": {
+    "badge": "Approuvé par les chercheurs d'emploi à travers l'Inde",
+    "title1": "Nous Postulons aux Emplois",
+    "title2": "Pour Vous.",
+    "subtitle": "Arrêtez de passer des heures à remplir des formulaires. Notre équipe formée postule aux emplois sur Naukri, LinkedIn et Indeed en votre nom — avec capture d'écran comme preuve de chaque candidature.",
+    "pricing": "À partir de seulement ₹499 pour 200 candidatures.",
+    "cta": "Commencez — 10 Candidatures Gratuites",
+    "stats": {
+      "trial": "10 Gratuites",
+      "trialSub": "Candidatures d'essai",
+      "portals": "Naukri + LinkedIn",
+      "portalsSub": "+ Indeed + Plus",
+      "proof": "Capture d'écran",
+      "proofSub": "Preuve par Candidature",
+      "report": "Rapport Excel",
+      "reportSub": "Suivez Tout"
+    }
+  },
+
+  "problem": {
+    "title": "Ça vous parle ?",
+    "items": [
+      "Passer 3-4 heures par jour juste à postuler aux emplois",
+      "Remplir les mêmes informations sur 10 portails différents",
+      "Oublier à quelles entreprises vous avez déjà postulé",
+      "Se frustrer et abandonner après 20 candidatures",
+      "Pas le temps de personnaliser les lettres de motivation pour chaque poste",
+      "Manquer de bonnes opportunités parce que vous avez postulé trop tard"
+    ],
+    "solution": "Et si quelqu'un faisait tout cela pour vous ?"
+  },
+
+  "howItWorks": {
+    "title": "Comment Ça Marche",
+    "steps": [
+      { "title": "Partagez Votre Profil", "desc": "Téléchargez votre CV, définissez vos préférences — postes, lieux, fourchette salariale. Prend 5 minutes." },
+      { "title": "Ajoutez les Identifiants du Portail", "desc": "Le coffre-fort chiffré stocke vos identifiants Naukri/LinkedIn. Utilisés uniquement lors des candidatures." },
+      { "title": "Nous Postulons Quotidiennement", "desc": "Notre équipe recherche les emplois correspondants et postule en votre nom. Lettres de motivation personnalisées par poste." },
+      { "title": "Recevez Rapport + Entretiens", "desc": "Rapport hebdomadaire PDF/Excel avec chaque candidature. Suivez les appels d'entretien dans le tableau de bord." }
+    ]
+  },
+
+  "pricing": {
+    "title": "Tarification Simple",
+    "subtitle": "Payez par lot. Pas de frais cachés. Annulez à tout moment.",
+    "guarantee": "*Garantie d'entretien : Si l'objectif n'est pas atteint en 30 jours, le mois suivant est gratuit.",
+    "free": { "name": "Essai Gratuit", "apps": "10 candidatures", "cta": "Commencer Gratuitement" },
+    "starter": { "name": "Débutant", "apps": "200 candidatures", "cta": "Commencer", "wasPrice": "₹799", "save": "Économisez 38%" },
+    "pro": { "name": "Pro", "apps": "500 candidatures", "cta": "Plus Populaire", "wasPrice": "₹1,499", "save": "Économisez 33%" },
+    "max": { "name": "Max", "apps": "1000 candidatures", "cta": "Passer au Max", "wasPrice": "₹3,499", "save": "Économisez 43%" },
+    "mega": {
+      "name": "Mega",
+      "badge": "Économisez 58%",
+      "savings": "Économisez ₹3,500",
+      "apps": "2,500+ candidatures sur 3 mois",
+      "desc": "Le meilleur rapport qualité-prix pour les chercheurs d'emploi sérieux. Tout ce qui est dans Max, mais pour 3 mois avec une réduction massive.",
+      "cta": "Obtenir le Plan Mega",
+      "features": {
+        "all_portals": "Tous les portails d'emploi couverts",
+        "cover_letters": "Lettres de motivation personnalisées",
+        "daily_reports": "Rapports quotidiens PDF + Excel",
+        "whatsapp": "Mises à jour WhatsApp + notes vocales",
+        "resume": "Réécriture et optimisation du CV",
+        "linkedin": "Optimisation du profil LinkedIn",
+        "dedicated_team": "Équipe de travailleurs dédiée",
+        "guarantee": "Garantie de 30 entretiens*"
+      }
+    },
+    "popular": "Plus Populaire",
+    "current": "Actuel",
+    "perMonth": "/mois"
+  },
+
+  "guarantee": {
+    "title": "Garantie d'Entretien",
+    "desc": "Sur les plans Pro et Max : si vous ne recevez pas au moins 10 appels d'entretien en 30 jours, votre mois suivant est entièrement gratuit. Nous sommes si confiants.",
+    "cta": "Commencez Maintenant"
+  },
+
+  "freshers": {
+    "title": "Jeune diplômé ? C'est pour vous.",
+    "desc": "Vous avez le diplôme. Maintenant vous avez besoin de candidatures — beaucoup. Nous postulerons à 200-1000 emplois pertinents pour vous chaque mois pendant que vous vous préparez aux entretiens. La plupart des débutants reçoivent leur premier appel d'entretien en 10 jours.",
+    "cta": "Commencer en tant que Débutant",
+    "stat1": "200+",
+    "stat1Label": "Candidatures/mois",
+    "stat2": "10 jours",
+    "stat2Label": "Temps moyen avant le premier entretien",
+    "stat3": "₹499",
+    "stat3Label": "Prix de départ"
+  },
+
+  "whatsapp": {
+    "title": "Mises à jour sur WhatsApp",
+    "desc": "Recevez des mises à jour quotidiennes, des rapports hebdomadaires et des alertes d'entretien directement sur WhatsApp. Pas besoin de vérifier le tableau de bord — nous venons à vous.",
+    "daily": "Quotidien : \"Postulé à 8 emplois aujourd'hui — TCS, Infosys, Razorpay...\"",
+    "weekly": "Hebdomadaire : Rapport PDF + Excel livré",
+    "instant": "Instantané : Alertes d'appels d'entretien"
+  },
+
+  "faq": {
+    "title": "Questions ?",
+    "items": [
+      { "q": "Est-il sûr de partager mes identifiants de connexion ?", "a": "Oui. Les identifiants sont chiffrés avec AES-256 et stockés dans un coffre-fort isolé. Ils ne sont déchiffrés que pendant la candidature et immédiatement supprimés après." },
+      { "q": "Sur quels portails postulez-vous ?", "a": "Naukri, LinkedIn, Indeed, Internshala et Freshersworld. Sur les plans Pro/Max, nous couvrons tous les portails." },
+      { "q": "Comment savoir si vous avez vraiment postulé ?", "a": "Chaque candidature est accompagnée d'une capture d'écran comme preuve. Vous recevez aussi un rapport hebdomadaire PDF et Excel." },
+      { "q": "Qu'est-ce que la garantie d'entretien ?", "a": "Sur les plans Pro et Max, si vous ne recevez pas les appels d'entretien ciblés en 30 jours, votre mois suivant est gratuit." },
+      { "q": "Puis-je choisir à quels emplois postuler ?", "a": "Oui ! Définissez vos préférences — postes, lieux, fourchette salariale, préférence télétravail — et notre équipe correspond en conséquence." },
+      { "q": "Je suis débutant sans expérience. Ça marchera ?", "a": "Absolument. Les débutants sont notre public principal. Nous optimisons pour les postes adaptés aux débutants." }
+    ]
+  },
+
+  "finalCta": {
+    "title": "Arrêtez de postuler. Commencez à passer des entretiens.",
+    "subtitle": "Laissez-nous gérer les candidatures pendant que vous vous préparez aux entretiens.",
+    "cta": "Obtenez 10 Candidatures Gratuites"
+  },
+
+  "footer": "Nous postulons aux emplois pour vous.",
+
+  "auth": {
+    "welcomeBack": "Bon retour",
+    "signInSubtitle": "Connectez-vous en tant que client ou travailleur",
+    "email": "Email",
+    "password": "Mot de passe",
+    "signIn": "Se Connecter",
+    "signingIn": "Connexion en cours...",
+    "noAccount": "Pas de compte ?",
+    "signUp": "S'inscrire",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "createAccount": "Commencer Gratuitement",
+    "createAccountSubtitle": "10 candidatures gratuites pour commencer",
+    "joinWorker": "Rejoindre comme Travailleur",
+    "joinWorkerSubtitle": "Gagnez en postulant aux emplois pour des clients",
+    "iNeedJobs": "J'ai besoin de candidatures",
+    "iWantToEarn": "Je veux gagner de l'argent",
+    "fullName": "Nom Complet",
+    "whatsappNumber": "Numéro WhatsApp",
+    "whatsappHint": "Pour les mises à jour quotidiennes via WhatsApp",
+    "experienceLevel": "Niveau d'Expérience",
+    "skills": "Compétences",
+    "preferredRoles": "Postes Préférés",
+    "preferredLocations": "Lieux Préférés",
+    "createClientBtn": "Obtenez 10 Candidatures Gratuites",
+    "createWorkerBtn": "Rejoindre comme Travailleur",
+    "creating": "Création en cours...",
+    "uploadResume": "Téléchargez Votre CV",
+    "uploadResumeHint": "PDF, DOC ou DOCX — nous remplirons tout pour vous",
+    "parsingResume": "Lecture de votre CV...",
+    "resumeUploaded": "CV analysé ! Champs remplis automatiquement.",
+    "resumeParsed": "CV analysé ! Vérifiez vos informations ci-dessous.",
+    "resumeError": "Impossible d'analyser le CV. Veuillez remplir manuellement.",
+    "orFillManually": "ou remplissez les détails manuellement ci-dessous"
+  },
+
+  "experience": {
+    "fresher": "Débutant (0 an)",
+    "0-1": "0-1 an",
+    "1-3": "1-3 ans",
+    "3-5": "3-5 ans",
+    "5-10": "5-10 ans",
+    "10+": "10+ ans"
+  },
+
+  "onboarding": {
+    "title": "Complétez Votre Profil",
+    "subtitle": "Cela nous aide à postuler aux bons emplois pour vous",
+    "step1": "Profil",
+    "step2": "Préférences",
+    "step3": "Identifiants",
+    "headline": "Titre Professionnel",
+    "headlinePlaceholder": "ex. Diplômé B.Tech CSE | React & Python",
+    "education": "Formation",
+    "college": "Université",
+    "resumeLink": "Lien du CV (Google Drive / Dropbox)",
+    "linkedin": "Profil LinkedIn (optionnel)",
+    "roles": "Postes Préférés",
+    "rolesHint": "Séparés par des virgules. Nous les rechercherons sur les portails d'emploi.",
+    "locations": "Lieux Préférés",
+    "salary": "Salaire Attendu (LPA)",
+    "remote": "Ouvert au télétravail",
+    "naukri": "Naukri",
+    "linkedinCreds": "LinkedIn (optionnel)",
+    "encryptionNote": "Vos identifiants sont chiffrés avant le stockage et ne sont déchiffrés que pendant le processus de candidature.",
+    "back": "Retour",
+    "next": "Suivant",
+    "complete": "Terminer et Commencer",
+    "saving": "Enregistrement...",
+    "skipNote": "Vous pouvez ignorer les identifiants et les ajouter plus tard depuis votre tableau de bord."
+  },
+
+  "dashboard": {
+    "title": "Tableau de bord",
+    "applicationsUsed": "candidatures utilisées",
+    "startApplying": "Commencer à Postuler",
+    "applicationsMade": "Candidatures Faites",
+    "interviewCalls": "Appels d'Entretien",
+    "conversionRate": "Taux de Conversion",
+    "totalOrders": "Total des Commandes",
+    "guaranteeActive": "Garantie d'Entretien Active",
+    "callsReceived": "appels reçus",
+    "targetMet": "Objectif atteint !",
+    "yourOrders": "Vos Commandes",
+    "noOrders": "Pas encore de commandes",
+    "noOrdersHint": "Cliquez sur \"Commencer à Postuler\" pour créer votre première commande",
+    "orderCreated": "Commande créée ! Un travailleur commencera à postuler bientôt.",
+    "applications": "candidatures",
+    "interviewCallCount": "appel(s) d'entretien",
+    "upgradeTitle": "Vous voulez plus de candidatures ?",
+    "upgradeDesc": "Passez au Pro pour 500 candidatures + garantie d'entretien à seulement ₹999",
+    "viewPlans": "Voir les Plans"
+  },
+
+  "order": {
+    "complete": "terminé",
+    "worker": "Travailleur",
+    "logInterview": "Enregistrer un Appel d'Entretien",
+    "logInterviewHint": "Vous avez reçu un appel d'une entreprise ? Enregistrez-le ici pour suivre votre progression.",
+    "companyName": "Nom de l'entreprise",
+    "role": "Poste (optionnel)",
+    "logBtn": "Enregistrer l'Entretien",
+    "applications": "Candidatures",
+    "generateReport": "Générer le Rapport",
+    "noAppsYet": "Les candidatures apparaîtront ici quand le travailleur postulera...",
+    "reports": "Rapports",
+    "reviewApprove": "Examiner et Approuver",
+    "approveBtn": "Approuver et Terminer",
+    "howWasWorker": "Comment était le travailleur ? (optionnel)",
+    "liveUpdates": "Mises à jour en direct actives"
+  },
+
+  "worker": {
+    "dashboard": "Tableau de bord Travailleur",
+    "earnings": "Gains",
+    "applicationsFiled": "Candidatures Déposées",
+    "rating": "Note",
+    "activeOrders": "Commandes Actives",
+    "availableOrders": "Commandes Disponibles",
+    "myOrders": "Mes Commandes",
+    "claim": "Réclamer",
+    "payout": "paiement",
+    "noOrders": "Pas encore de commandes. Réclamez-en une ci-dessus pour commencer à gagner.",
+    "startApplying": "Commencer à Postuler",
+    "logApplication": "Enregistrer une Candidature",
+    "company": "Nom de l'entreprise",
+    "jobTitle": "Titre du poste",
+    "portal": "Portail",
+    "location": "Lieu",
+    "salary": "Salaire (optionnel)",
+    "jobUrl": "URL de l'emploi (optionnel)",
+    "coverLetter": "Lettre de motivation personnalisée utilisée",
+    "notes": "Notes (optionnel)",
+    "logBtn": "Enregistrer la Candidature",
+    "logging": "Enregistrement...",
+    "submitReview": "Terminé ? Soumettre pour Examen",
+    "submitNotes": "Résumé pour le client (ce qui a été fait, problèmes éventuels)",
+    "submitBtn": "Soumettre pour Examen",
+    "clientInstructions": "Instructions du Client",
+    "targetRoles": "Postes ciblés",
+    "locations": "Lieux",
+    "portals": "Portails",
+    "customInstructions": "Instructions personnalisées"
+  },
+
+  "vault": {
+    "title": "Coffre-fort d'Identifiants",
+    "subtitle": "Identifiants chiffrés partagés en toute sécurité avec les travailleurs uniquement pendant l'exécution des tâches.",
+    "addCredential": "Ajouter un Identifiant",
+    "key": "Clé",
+    "value": "Valeur",
+    "store": "Stocker",
+    "quickAdd": "Ajout rapide :",
+    "stored": "Identifiants Stockés",
+    "noCredentials": "Aucun identifiant stocké"
+  },
+
+  "plans": {
+    "title": "Plans Simples. Vrais Résultats.",
+    "subtitle": "Plus de candidatures = plus d'entretiens. Choisissez votre rythme."
+  },
+
+  "serviceMode": {
+    "title": "Comment devons-nous postuler ?",
+    "subtitle": "Choisissez comment vous voulez que nous postulions en votre nom.",
+    "portal": {
+      "title": "Postuler via Portail",
+      "desc": "Nous nous connectons à vos comptes Naukri, LinkedIn et Indeed et postulons directement. Nécessite le partage des identifiants (chiffrés et sécurisés)."
+    },
+    "direct": {
+      "title": "Postuler Direct — Sans Connexion",
+      "desc": "Nous postulons sur les pages carrières des entreprises et envoyons des emails aux RH en votre nom. Aucun mot de passe requis.",
+      "tag1": "Sites Web Entreprises",
+      "tag2": "Emails aux RH",
+      "tag3": "Sans Identifiants",
+      "badge": "Direct"
+    }
+  },
+
+  "common": {
+    "refresh": "Actualiser",
+    "back": "Retour",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "loading": "Chargement...",
+    "details": "Détails"
+  },
+
+  "status": {
+    "pending": "En attente d'un travailleur",
+    "assigned": "Travailleur assigné",
+    "in_progress": "En cours de candidature...",
+    "review_pending": "Examen nécessaire",
+    "completed": "Terminé",
+    "cancelled": "Annulé"
+  },
+
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch"
+  },
+
+  "contact": {
+    "title": "Parlez-nous",
+    "subtitle": "Nous répondons généralement en quelques minutes",
+    "whatsapp": "Discuter sur WhatsApp",
+    "whatsappHint": "Réponses rapides, 9h–21h IST",
+    "email": "Envoyez-nous un Email",
+    "whatsappMessage": "Bonjour TaskDone ! J'ai une question sur votre service de candidature d'emploi.",
+    "emailSubject": "Demande concernant TaskDone"
+  }
+}

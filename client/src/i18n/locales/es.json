@@ -1,0 +1,351 @@
+{
+  "brand": "TaskDone",
+  "tagline": "Nosotros aplicamos a empleos por ti.",
+
+  "nav": {
+    "dashboard": "Panel",
+    "credentials": "Credenciales",
+    "plans": "Planes",
+    "myWork": "Mi Trabajo",
+    "earnings": "Ganancias",
+    "login": "Iniciar Sesión",
+    "getStarted": "Comienza Gratis",
+    "logout": "Cerrar Sesión",
+    "worker": "Trabajador",
+    "client": "Cliente"
+  },
+
+  "hero": {
+    "badge": "Confiado por buscadores de empleo en toda India",
+    "title1": "Aplicamos a Empleos",
+    "title2": "Por Ti.",
+    "subtitle": "Deja de pasar horas llenando formularios. Nuestro equipo capacitado aplica a empleos en Naukri, LinkedIn e Indeed en tu nombre — con captura de pantalla como prueba de cada solicitud.",
+    "pricing": "Desde solo ₹499 por 200 solicitudes.",
+    "cta": "Comienza — 10 Solicitudes Gratis",
+    "stats": {
+      "trial": "10 Gratis",
+      "trialSub": "Solicitudes de Prueba",
+      "portals": "Naukri + LinkedIn",
+      "portalsSub": "+ Indeed + Más",
+      "proof": "Captura",
+      "proofSub": "Prueba por Solicitud",
+      "report": "Reporte Excel",
+      "reportSub": "Rastrea Todo"
+    }
+  },
+
+  "problem": {
+    "title": "¿Te suena familiar?",
+    "items": [
+      "Pasar 3-4 horas diarias solo aplicando a empleos",
+      "Llenar la misma información en 10 portales diferentes",
+      "Olvidar a qué empresas ya aplicaste",
+      "Frustrarte y rendirte después de 20 solicitudes",
+      "Sin tiempo para personalizar cartas de presentación para cada puesto",
+      "Perder buenas oportunidades por aplicar demasiado tarde"
+    ],
+    "solution": "¿Qué pasaría si alguien hiciera todo esto por ti?"
+  },
+
+  "howItWorks": {
+    "title": "Cómo Funciona",
+    "steps": [
+      { "title": "Comparte Tu Perfil", "desc": "Sube tu CV, establece preferencias — puestos, ubicaciones, rango salarial. Toma 5 minutos." },
+      { "title": "Agrega Credenciales del Portal", "desc": "La bóveda encriptada almacena tus datos de Naukri/LinkedIn. Solo se usan durante las solicitudes." },
+      { "title": "Aplicamos Diariamente", "desc": "Nuestro equipo busca empleos que coincidan y aplica en tu nombre. Cartas personalizadas por puesto." },
+      { "title": "Recibe Reporte + Entrevistas", "desc": "Reporte semanal PDF/Excel con cada solicitud. Rastrea llamadas de entrevista en el panel." }
+    ]
+  },
+
+  "pricing": {
+    "title": "Precios Simples",
+    "subtitle": "Paga por lote. Sin cargos ocultos. Cancela cuando quieras.",
+    "guarantee": "*Garantía de entrevista: Si no se cumple el objetivo en 30 días, el siguiente mes es gratis.",
+    "free": { "name": "Prueba Gratis", "apps": "10 solicitudes", "cta": "Comienza Gratis" },
+    "starter": { "name": "Inicial", "apps": "200 solicitudes", "cta": "Comenzar", "wasPrice": "₹799", "save": "Ahorra 38%" },
+    "pro": { "name": "Pro", "apps": "500 solicitudes", "cta": "Más Popular", "wasPrice": "₹1,499", "save": "Ahorra 33%" },
+    "max": { "name": "Max", "apps": "1000 solicitudes", "cta": "Ir al Max", "wasPrice": "₹3,499", "save": "Ahorra 43%" },
+    "mega": {
+      "name": "Mega",
+      "badge": "Ahorra 58%",
+      "savings": "Ahorra ₹3,500",
+      "apps": "2,500+ solicitudes en 3 meses",
+      "desc": "El mejor valor para buscadores de empleo serios. Todo lo de Max, pero por 3 meses con un descuento enorme.",
+      "cta": "Obtener Plan Mega",
+      "features": {
+        "all_portals": "Todos los portales de empleo",
+        "cover_letters": "Cartas de presentación personalizadas",
+        "daily_reports": "Reportes diarios PDF + Excel",
+        "whatsapp": "Actualizaciones WhatsApp + notas de voz",
+        "resume": "Reescritura y optimización de CV",
+        "linkedin": "Optimización de perfil LinkedIn",
+        "dedicated_team": "Equipo de trabajadores dedicado",
+        "guarantee": "Garantía de 30 entrevistas*"
+      }
+    },
+    "popular": "Más Popular",
+    "current": "Actual",
+    "perMonth": "/mes"
+  },
+
+  "guarantee": {
+    "title": "Garantía de Entrevista",
+    "desc": "En planes Pro y Max: si no recibes al menos 10 llamadas de entrevista en 30 días, tu siguiente mes es completamente gratis. Así de seguros estamos.",
+    "cta": "Comienza Ahora"
+  },
+
+  "freshers": {
+    "title": "¿Recién graduado? Esto es para ti.",
+    "desc": "Tienes el título. Ahora necesitas solicitudes — muchas. Aplicaremos a 200-1000 empleos relevantes por ti cada mes mientras te preparas para entrevistas. La mayoría de los graduados reciben su primera llamada de entrevista en 10 días.",
+    "cta": "Comienza como Graduado",
+    "stat1": "200+",
+    "stat1Label": "Solicitudes/mes",
+    "stat2": "10 días",
+    "stat2Label": "Tiempo promedio a primera entrevista",
+    "stat3": "₹499",
+    "stat3Label": "Precio inicial"
+  },
+
+  "whatsapp": {
+    "title": "Actualizaciones por WhatsApp",
+    "desc": "Recibe actualizaciones diarias de solicitudes, reportes semanales y alertas de entrevista directamente en WhatsApp. Sin necesidad de revisar el panel — nosotros vamos a ti.",
+    "daily": "Diario: \"Aplicamos a 8 empleos hoy — TCS, Infosys, Razorpay...\"",
+    "weekly": "Semanal: Reporte PDF + Excel entregado",
+    "instant": "Instantáneo: Alertas de llamada de entrevista"
+  },
+
+  "faq": {
+    "title": "¿Preguntas?",
+    "items": [
+      { "q": "¿Es seguro compartir mis credenciales de inicio de sesión?", "a": "Sí. Las credenciales se encriptan con AES-256 y se almacenan en una bóveda aislada. Solo se desencriptan durante la solicitud y se descartan inmediatamente después." },
+      { "q": "¿En qué portales aplican?", "a": "Naukri, LinkedIn, Indeed, Internshala y Freshersworld. En planes Pro/Max, cubrimos todos los portales." },
+      { "q": "¿Cómo sé que realmente aplicaron?", "a": "Cada solicitud viene con captura de pantalla como prueba. También recibes un reporte semanal PDF y Excel." },
+      { "q": "¿Qué es la garantía de entrevista?", "a": "En planes Pro y Max, si no recibes las llamadas de entrevista objetivo en 30 días, tu siguiente mes es gratis." },
+      { "q": "¿Puedo elegir a qué empleos aplicar?", "a": "¡Sí! Establece tus preferencias — puestos, ubicaciones, rango salarial, preferencia remota — y nuestro equipo busca acorde." },
+      { "q": "Soy recién graduado sin experiencia. ¿Funcionará?", "a": "Absolutamente. Los recién graduados son nuestra audiencia principal. Optimizamos para puestos aptos para graduados." }
+    ]
+  },
+
+  "finalCta": {
+    "title": "Deja de aplicar. Empieza a entrevistar.",
+    "subtitle": "Déjanos manejar las solicitudes mientras te preparas para entrevistas.",
+    "cta": "Obtén 10 Solicitudes Gratis"
+  },
+
+  "footer": "Aplicamos a empleos por ti.",
+
+  "auth": {
+    "welcomeBack": "Bienvenido de nuevo",
+    "signInSubtitle": "Inicia sesión como cliente o trabajador",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "signIn": "Iniciar Sesión",
+    "signingIn": "Iniciando sesión...",
+    "noAccount": "¿No tienes cuenta?",
+    "signUp": "Regístrate",
+    "haveAccount": "¿Ya tienes cuenta?",
+    "createAccount": "Comienza Gratis",
+    "createAccountSubtitle": "10 solicitudes de empleo gratis para empezar",
+    "joinWorker": "Únete como Trabajador",
+    "joinWorkerSubtitle": "Gana aplicando a empleos para clientes",
+    "iNeedJobs": "Necesito que apliquen por mí",
+    "iWantToEarn": "Quiero ganar dinero",
+    "fullName": "Nombre Completo",
+    "whatsappNumber": "Número de WhatsApp",
+    "whatsappHint": "Para actualizaciones diarias de solicitudes vía WhatsApp",
+    "experienceLevel": "Nivel de Experiencia",
+    "skills": "Habilidades",
+    "preferredRoles": "Puestos Preferidos",
+    "preferredLocations": "Ubicaciones Preferidas",
+    "createClientBtn": "Obtén 10 Solicitudes Gratis",
+    "createWorkerBtn": "Únete como Trabajador",
+    "creating": "Creando...",
+    "uploadResume": "Sube Tu CV",
+    "uploadResumeHint": "PDF, DOC o DOCX — llenaremos todo por ti",
+    "parsingResume": "Leyendo tu CV...",
+    "resumeUploaded": "¡CV procesado! Campos auto-llenados.",
+    "resumeParsed": "¡CV procesado! Revisa tus datos abajo.",
+    "resumeError": "No se pudo procesar el CV. Llénalo manualmente.",
+    "orFillManually": "o llena los datos manualmente abajo"
+  },
+
+  "experience": {
+    "fresher": "Recién Graduado (0 años)",
+    "0-1": "0-1 años",
+    "1-3": "1-3 años",
+    "3-5": "3-5 años",
+    "5-10": "5-10 años",
+    "10+": "10+ años"
+  },
+
+  "onboarding": {
+    "title": "Completa Tu Perfil",
+    "subtitle": "Esto nos ayuda a aplicar a los empleos correctos para ti",
+    "step1": "Perfil",
+    "step2": "Preferencias",
+    "step3": "Credenciales",
+    "headline": "Titular Profesional",
+    "headlinePlaceholder": "ej. Graduado B.Tech CSE | React & Python",
+    "education": "Educación",
+    "college": "Universidad",
+    "resumeLink": "Enlace de CV (Google Drive / Dropbox)",
+    "linkedin": "Perfil de LinkedIn (opcional)",
+    "roles": "Puestos Preferidos",
+    "rolesHint": "Separados por coma. Buscaremos estos en los portales de empleo.",
+    "locations": "Ubicaciones Preferidas",
+    "salary": "Salario Esperado (LPA)",
+    "remote": "Disponible para trabajo remoto",
+    "naukri": "Naukri",
+    "linkedinCreds": "LinkedIn (opcional)",
+    "encryptionNote": "Tus credenciales se encriptan antes de almacenarlas y solo se desencriptan durante el proceso de solicitud.",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "complete": "Completar e Iniciar",
+    "saving": "Guardando...",
+    "skipNote": "Puedes omitir credenciales y agregarlas después desde tu panel."
+  },
+
+  "dashboard": {
+    "title": "Panel",
+    "applicationsUsed": "solicitudes usadas",
+    "startApplying": "Comenzar a Aplicar",
+    "applicationsMade": "Solicitudes Realizadas",
+    "interviewCalls": "Llamadas de Entrevista",
+    "conversionRate": "Tasa de Conversión",
+    "totalOrders": "Total de Órdenes",
+    "guaranteeActive": "Garantía de Entrevista Activa",
+    "callsReceived": "llamadas recibidas",
+    "targetMet": "¡Meta alcanzada!",
+    "yourOrders": "Tus Órdenes",
+    "noOrders": "Sin órdenes aún",
+    "noOrdersHint": "Haz clic en \"Comenzar a Aplicar\" para crear tu primera orden",
+    "orderCreated": "¡Orden creada! Un trabajador comenzará a aplicar pronto.",
+    "applications": "solicitudes",
+    "interviewCallCount": "llamada(s) de entrevista",
+    "upgradeTitle": "¿Quieres más solicitudes?",
+    "upgradeDesc": "Actualiza a Pro por 500 solicitudes + garantía de entrevista a solo ₹999",
+    "viewPlans": "Ver Planes"
+  },
+
+  "order": {
+    "complete": "completo",
+    "worker": "Trabajador",
+    "logInterview": "Registrar Llamada de Entrevista",
+    "logInterviewHint": "¿Recibiste una llamada de una empresa? Regístrala aquí para seguir tu progreso.",
+    "companyName": "Nombre de la empresa",
+    "role": "Puesto (opcional)",
+    "logBtn": "Registrar Entrevista",
+    "applications": "Solicitudes",
+    "generateReport": "Generar Reporte",
+    "noAppsYet": "Las solicitudes aparecerán aquí cuando el trabajador aplique...",
+    "reports": "Reportes",
+    "reviewApprove": "Revisar y Aprobar",
+    "approveBtn": "Aprobar y Completar",
+    "howWasWorker": "¿Cómo fue el trabajador? (opcional)",
+    "liveUpdates": "Actualizaciones en vivo activas"
+  },
+
+  "worker": {
+    "dashboard": "Panel del Trabajador",
+    "earnings": "Ganancias",
+    "applicationsFiled": "Solicitudes Presentadas",
+    "rating": "Calificación",
+    "activeOrders": "Órdenes Activas",
+    "availableOrders": "Órdenes Disponibles",
+    "myOrders": "Mis Órdenes",
+    "claim": "Reclamar",
+    "payout": "pago",
+    "noOrders": "Sin órdenes aún. Reclama una arriba para empezar a ganar.",
+    "startApplying": "Comenzar a Aplicar",
+    "logApplication": "Registrar Solicitud",
+    "company": "Nombre de la empresa",
+    "jobTitle": "Título del puesto",
+    "portal": "Portal",
+    "location": "Ubicación",
+    "salary": "Salario (opcional)",
+    "jobUrl": "URL del empleo (opcional)",
+    "coverLetter": "Carta de presentación personalizada usada",
+    "notes": "Notas (opcional)",
+    "logBtn": "Registrar Solicitud",
+    "logging": "Registrando...",
+    "submitReview": "¿Listo? Enviar para Revisión",
+    "submitNotes": "Resumen para el cliente (qué se hizo, algún problema)",
+    "submitBtn": "Enviar para Revisión",
+    "clientInstructions": "Instrucciones del Cliente",
+    "targetRoles": "Puestos objetivo",
+    "locations": "Ubicaciones",
+    "portals": "Portales",
+    "customInstructions": "Instrucciones personalizadas"
+  },
+
+  "vault": {
+    "title": "Bóveda de Credenciales",
+    "subtitle": "Credenciales encriptadas compartidas de forma segura con trabajadores solo durante la ejecución de tareas.",
+    "addCredential": "Agregar Credencial",
+    "key": "Clave",
+    "value": "Valor",
+    "store": "Almacenar",
+    "quickAdd": "Agregar rápido:",
+    "stored": "Credenciales Almacenadas",
+    "noCredentials": "Sin credenciales almacenadas"
+  },
+
+  "plans": {
+    "title": "Planes Simples. Resultados Reales.",
+    "subtitle": "Más solicitudes = más entrevistas. Elige tu ritmo."
+  },
+
+  "serviceMode": {
+    "title": "¿Cómo debemos aplicar?",
+    "subtitle": "Elige cómo quieres que apliquemos a empleos en tu nombre.",
+    "portal": {
+      "title": "Aplicar por Portal",
+      "desc": "Iniciamos sesión en tus cuentas de Naukri, LinkedIn e Indeed y aplicamos directamente. Requiere compartir credenciales del portal (encriptadas y seguras)."
+    },
+    "direct": {
+      "title": "Aplicar Directo — Sin Login",
+      "desc": "Aplicamos en páginas de carreras de empresas y enviamos emails fríos a HRs de reclutamiento en tu nombre. Sin contraseñas necesarias.",
+      "tag1": "Sitios Web de Empresas",
+      "tag2": "Emails a HR",
+      "tag3": "Sin Credenciales",
+      "badge": "Directo"
+    }
+  },
+
+  "common": {
+    "refresh": "Actualizar",
+    "back": "Atrás",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "loading": "Cargando...",
+    "details": "Detalles"
+  },
+
+  "status": {
+    "pending": "Esperando trabajador",
+    "assigned": "Trabajador asignado",
+    "in_progress": "Aplicando...",
+    "review_pending": "Revisión necesaria",
+    "completed": "Completado",
+    "cancelled": "Cancelado"
+  },
+
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch"
+  },
+
+  "contact": {
+    "title": "Habla con nosotros",
+    "subtitle": "Normalmente respondemos en minutos",
+    "whatsapp": "Chatea por WhatsApp",
+    "whatsappHint": "Respuestas rápidas, 9am–9pm IST",
+    "email": "Envíanos un Email",
+    "whatsappMessage": "¡Hola TaskDone! Tengo una pregunta sobre su servicio de aplicación de empleos.",
+    "emailSubject": "Consulta sobre TaskDone"
+  }
+}

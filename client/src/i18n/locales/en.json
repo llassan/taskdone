@@ -1,0 +1,351 @@
+{
+  "brand": "TaskDone",
+  "tagline": "We apply to jobs for you.",
+
+  "nav": {
+    "dashboard": "Dashboard",
+    "credentials": "Credentials",
+    "plans": "Plans",
+    "myWork": "My Work",
+    "earnings": "Earnings",
+    "login": "Login",
+    "getStarted": "Get Started Free",
+    "logout": "Logout",
+    "worker": "Worker",
+    "client": "Client"
+  },
+
+  "hero": {
+    "badge": "Trusted by job seekers across India",
+    "title1": "We Apply to Jobs",
+    "title2": "For You.",
+    "subtitle": "Stop spending hours filling forms. Our trained team applies to jobs on Naukri, LinkedIn & Indeed on your behalf — with screenshot proof of every application.",
+    "pricing": "Starting at just ₹499 for 200 applications.",
+    "cta": "Get Started — 10 Free Applications",
+    "stats": {
+      "trial": "10 Free",
+      "trialSub": "Trial Applications",
+      "portals": "Naukri + LinkedIn",
+      "portalsSub": "+ Indeed + More",
+      "proof": "Screenshot",
+      "proofSub": "Proof Every App",
+      "report": "Excel Report",
+      "reportSub": "Track Everything"
+    }
+  },
+
+  "problem": {
+    "title": "Sound familiar?",
+    "items": [
+      "Spending 3-4 hours daily just applying to jobs",
+      "Filling the same information on 10 different portals",
+      "Forgetting which companies you already applied to",
+      "Getting frustrated and giving up after 20 applications",
+      "No time to customize cover letters for each role",
+      "Missing good opportunities because you applied too late"
+    ],
+    "solution": "What if someone did all of this for you?"
+  },
+
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": [
+      { "title": "Share Your Profile", "desc": "Upload resume, set preferences — roles, locations, salary range. Takes 5 minutes." },
+      { "title": "Add Portal Credentials", "desc": "Encrypted vault stores your Naukri/LinkedIn logins. Only used during applications." },
+      { "title": "We Apply Daily", "desc": "Our team searches matching jobs and applies on your behalf. Cover letters customized per role." },
+      { "title": "Get Report + Interviews", "desc": "Weekly PDF/Excel report with every application. Track interview calls in the dashboard." }
+    ]
+  },
+
+  "pricing": {
+    "title": "Simple Pricing",
+    "subtitle": "Pay per batch. No hidden fees. Cancel anytime.",
+    "guarantee": "*Interview guarantee: If target not met in 30 days, next month is free.",
+    "free": { "name": "Free Trial", "apps": "10 applications", "cta": "Start Free" },
+    "starter": { "name": "Starter", "apps": "200 applications", "cta": "Get Started", "wasPrice": "₹799", "save": "Save 38%" },
+    "pro": { "name": "Pro", "apps": "500 applications", "cta": "Most Popular", "wasPrice": "₹1,499", "save": "Save 33%" },
+    "max": { "name": "Max", "apps": "1000 applications", "cta": "Go Max", "wasPrice": "₹3,499", "save": "Save 43%" },
+    "mega": {
+      "name": "Mega",
+      "badge": "Save 58%",
+      "savings": "Save ₹3,500",
+      "apps": "2,500+ applications over 3 months",
+      "desc": "Best value for serious job seekers. Everything in Max, but for 3 months at a massive discount.",
+      "cta": "Get Mega Plan",
+      "features": {
+        "all_portals": "All job portals covered",
+        "cover_letters": "Custom cover letters",
+        "daily_reports": "Daily PDF + Excel reports",
+        "whatsapp": "WhatsApp updates + voice notes",
+        "resume": "Resume rewrite & optimization",
+        "linkedin": "LinkedIn profile optimization",
+        "dedicated_team": "Dedicated worker team",
+        "guarantee": "30 interview guarantee*"
+      }
+    },
+    "popular": "Most Popular",
+    "current": "Current",
+    "perMonth": "/month"
+  },
+
+  "guarantee": {
+    "title": "Interview Guarantee",
+    "desc": "On Pro & Max plans: if you don't get at least 10 interview calls within 30 days, your next month is completely free. We're that confident.",
+    "cta": "Start Now"
+  },
+
+  "freshers": {
+    "title": "Fresh Graduate? This is for you.",
+    "desc": "You've got the degree. Now you need applications — lots of them. We'll apply to 200-1000 relevant jobs for you every month while you prepare for interviews. Most freshers get their first interview call within 10 days.",
+    "cta": "Start as Fresher",
+    "stat1": "200+",
+    "stat1Label": "Applications/month",
+    "stat2": "10 days",
+    "stat2Label": "Avg time to first interview",
+    "stat3": "₹499",
+    "stat3Label": "Starting price"
+  },
+
+  "whatsapp": {
+    "title": "Updates on WhatsApp",
+    "desc": "Get daily application updates, weekly reports, and interview alerts right on WhatsApp. No need to check the dashboard — we come to you.",
+    "daily": "Daily: \"Applied to 8 jobs today — TCS, Infosys, Razorpay...\"",
+    "weekly": "Weekly: PDF + Excel report delivered",
+    "instant": "Instant: Interview call alerts"
+  },
+
+  "faq": {
+    "title": "Questions?",
+    "items": [
+      { "q": "Is it safe to share my login credentials?", "a": "Yes. Credentials are encrypted with AES-256 and stored in an isolated vault. They are only decrypted during application and immediately discarded after." },
+      { "q": "What portals do you apply on?", "a": "Naukri, LinkedIn, Indeed, Internshala, and Freshersworld. On Pro/Max plans, we cover all portals." },
+      { "q": "How do I know you actually applied?", "a": "Every application comes with a screenshot proof. You also get a weekly PDF and Excel report." },
+      { "q": "What's the interview guarantee?", "a": "On Pro and Max plans, if you don't receive the target interview calls within 30 days, your next month is free." },
+      { "q": "Can I choose which jobs to apply to?", "a": "Yes! Set your preferences — roles, locations, salary range, remote preference — and our team matches accordingly." },
+      { "q": "I'm a fresher with no experience. Will this work?", "a": "Absolutely. Freshers are our primary audience. We optimize for fresher-friendly roles." }
+    ]
+  },
+
+  "finalCta": {
+    "title": "Stop applying. Start interviewing.",
+    "subtitle": "Let us handle the applications while you prepare for interviews.",
+    "cta": "Get 10 Free Applications"
+  },
+
+  "footer": "We apply to jobs for you.",
+
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "signInSubtitle": "Sign in as a client or worker",
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "haveAccount": "Already have an account?",
+    "createAccount": "Get Started Free",
+    "createAccountSubtitle": "10 free job applications to start",
+    "joinWorker": "Join as a Worker",
+    "joinWorkerSubtitle": "Earn by applying to jobs for clients",
+    "iNeedJobs": "I need jobs applied",
+    "iWantToEarn": "I want to earn",
+    "fullName": "Full Name",
+    "whatsappNumber": "WhatsApp Number",
+    "whatsappHint": "For daily application updates via WhatsApp",
+    "experienceLevel": "Experience Level",
+    "skills": "Skills",
+    "preferredRoles": "Preferred Job Roles",
+    "preferredLocations": "Preferred Locations",
+    "createClientBtn": "Get 10 Free Applications",
+    "createWorkerBtn": "Join as Worker",
+    "creating": "Creating...",
+    "uploadResume": "Upload Your Resume",
+    "uploadResumeHint": "PDF, DOC, or DOCX — we'll fill everything for you",
+    "parsingResume": "Reading your resume...",
+    "resumeUploaded": "Resume parsed! Fields auto-filled.",
+    "resumeParsed": "Resume parsed! Review your details below.",
+    "resumeError": "Could not parse resume. Please fill manually.",
+    "orFillManually": "or fill the details manually below"
+  },
+
+  "experience": {
+    "fresher": "Fresher (0 years)",
+    "0-1": "0-1 years",
+    "1-3": "1-3 years",
+    "3-5": "3-5 years",
+    "5-10": "5-10 years",
+    "10+": "10+ years"
+  },
+
+  "onboarding": {
+    "title": "Complete Your Profile",
+    "subtitle": "This helps us apply to the right jobs for you",
+    "step1": "Profile",
+    "step2": "Preferences",
+    "step3": "Credentials",
+    "headline": "Professional Headline",
+    "headlinePlaceholder": "e.g. B.Tech CSE Graduate | React & Python",
+    "education": "Education",
+    "college": "College",
+    "resumeLink": "Resume Link (Google Drive / Dropbox)",
+    "linkedin": "LinkedIn Profile (optional)",
+    "roles": "Preferred Roles",
+    "rolesHint": "Comma-separated. We'll search for these on job portals.",
+    "locations": "Preferred Locations",
+    "salary": "Expected Salary (LPA)",
+    "remote": "Open to remote work",
+    "naukri": "Naukri",
+    "linkedinCreds": "LinkedIn (optional)",
+    "encryptionNote": "Your credentials are encrypted before storage and only decrypted during the application process.",
+    "back": "Back",
+    "next": "Next",
+    "complete": "Complete & Start",
+    "saving": "Saving...",
+    "skipNote": "You can skip credentials and add them later from your dashboard."
+  },
+
+  "dashboard": {
+    "title": "Dashboard",
+    "applicationsUsed": "applications used",
+    "startApplying": "Start Applying",
+    "applicationsMade": "Applications Made",
+    "interviewCalls": "Interview Calls",
+    "conversionRate": "Conversion Rate",
+    "totalOrders": "Total Orders",
+    "guaranteeActive": "Interview Guarantee Active",
+    "callsReceived": "calls received",
+    "targetMet": "Target met!",
+    "yourOrders": "Your Orders",
+    "noOrders": "No orders yet",
+    "noOrdersHint": "Click \"Start Applying\" to create your first order",
+    "orderCreated": "Order created! A worker will start applying soon.",
+    "applications": "applications",
+    "interviewCallCount": "interview call(s)",
+    "upgradeTitle": "Want more applications?",
+    "upgradeDesc": "Upgrade to Pro for 500 applications + interview guarantee at just ₹999",
+    "viewPlans": "View Plans"
+  },
+
+  "order": {
+    "complete": "complete",
+    "worker": "Worker",
+    "logInterview": "Log an Interview Call",
+    "logInterviewHint": "Got a call from a company? Log it here to track your progress.",
+    "companyName": "Company name",
+    "role": "Role (optional)",
+    "logBtn": "Log Interview",
+    "applications": "Applications",
+    "generateReport": "Generate Report",
+    "noAppsYet": "Applications will appear here as the worker applies...",
+    "reports": "Reports",
+    "reviewApprove": "Review & Approve",
+    "approveBtn": "Approve & Complete",
+    "howWasWorker": "How was the worker? (optional)",
+    "liveUpdates": "Live updates active"
+  },
+
+  "worker": {
+    "dashboard": "Worker Dashboard",
+    "earnings": "Earnings",
+    "applicationsFiled": "Applications Filed",
+    "rating": "Rating",
+    "activeOrders": "Active Orders",
+    "availableOrders": "Available Orders",
+    "myOrders": "My Orders",
+    "claim": "Claim",
+    "payout": "payout",
+    "noOrders": "No orders yet. Claim one above to start earning.",
+    "startApplying": "Start Applying",
+    "logApplication": "Log Application",
+    "company": "Company name",
+    "jobTitle": "Job title",
+    "portal": "Portal",
+    "location": "Location",
+    "salary": "Salary (optional)",
+    "jobUrl": "Job URL (optional)",
+    "coverLetter": "Custom cover letter used",
+    "notes": "Notes (optional)",
+    "logBtn": "Log Application",
+    "logging": "Logging...",
+    "submitReview": "Done? Submit for Review",
+    "submitNotes": "Summary for the client (what was done, any issues)",
+    "submitBtn": "Submit for Review",
+    "clientInstructions": "Client Instructions",
+    "targetRoles": "Target roles",
+    "locations": "Locations",
+    "portals": "Portals",
+    "customInstructions": "Custom instructions"
+  },
+
+  "vault": {
+    "title": "Credential Vault",
+    "subtitle": "Encrypted credentials shared securely with workers during task execution only.",
+    "addCredential": "Add Credential",
+    "key": "Key",
+    "value": "Value",
+    "store": "Store",
+    "quickAdd": "Quick add:",
+    "stored": "Stored Credentials",
+    "noCredentials": "No credentials stored"
+  },
+
+  "plans": {
+    "title": "Simple Plans. Real Results.",
+    "subtitle": "More applications = more interviews. Pick your pace."
+  },
+
+  "serviceMode": {
+    "title": "How should we apply?",
+    "subtitle": "Choose how you want us to apply for jobs on your behalf.",
+    "portal": {
+      "title": "Portal Apply",
+      "desc": "We log into your Naukri, LinkedIn & Indeed accounts and apply directly. Requires sharing portal credentials (encrypted & secure)."
+    },
+    "direct": {
+      "title": "Direct Apply — No Login Needed",
+      "desc": "We apply on company career pages & send cold emails to recruiting HRs on your behalf. No passwords required.",
+      "tag1": "Company Websites",
+      "tag2": "HR Emails",
+      "tag3": "No Credentials Needed",
+      "badge": "Direct"
+    }
+  },
+
+  "common": {
+    "refresh": "Refresh",
+    "back": "Back",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "details": "Details"
+  },
+
+  "status": {
+    "pending": "Waiting for worker",
+    "assigned": "Worker assigned",
+    "in_progress": "Applying...",
+    "review_pending": "Review needed",
+    "completed": "Completed",
+    "cancelled": "Cancelled"
+  },
+
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch"
+  },
+
+  "contact": {
+    "title": "Talk to us",
+    "subtitle": "We usually reply within minutes",
+    "whatsapp": "Chat on WhatsApp",
+    "whatsappHint": "Quick replies, 9am–9pm IST",
+    "email": "Send us an Email",
+    "whatsappMessage": "Hi TaskDone! I have a question about your job application service.",
+    "emailSubject": "Inquiry about TaskDone"
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "brand": "TaskDone",
+  "tagline": "Wir bewerben uns für Sie auf Jobs.",
+
+  "nav": {
+    "dashboard": "Dashboard",
+    "credentials": "Zugangsdaten",
+    "plans": "Pläne",
+    "myWork": "Meine Arbeit",
+    "earnings": "Verdienst",
+    "login": "Anmelden",
+    "getStarted": "Kostenlos starten",
+    "logout": "Abmelden",
+    "worker": "Arbeiter",
+    "client": "Kunde"
+  },
+
+  "hero": {
+    "badge": "Vertraut von Arbeitssuchenden in ganz Indien",
+    "title1": "Wir Bewerben Uns auf Jobs",
+    "title2": "Für Sie.",
+    "subtitle": "Hören Sie auf, stundenlang Formulare auszufüllen. Unser geschultes Team bewirbt sich auf Naukri, LinkedIn und Indeed in Ihrem Namen — mit Screenshot-Nachweis für jede Bewerbung.",
+    "pricing": "Ab nur ₹499 für 200 Bewerbungen.",
+    "cta": "Starten — 10 Kostenlose Bewerbungen",
+    "stats": {
+      "trial": "10 Kostenlos",
+      "trialSub": "Test-Bewerbungen",
+      "portals": "Naukri + LinkedIn",
+      "portalsSub": "+ Indeed + Mehr",
+      "proof": "Screenshot",
+      "proofSub": "Nachweis pro Bewerbung",
+      "report": "Excel-Bericht",
+      "reportSub": "Alles verfolgen"
+    }
+  },
+
+  "problem": {
+    "title": "Kommt Ihnen das bekannt vor?",
+    "items": [
+      "3-4 Stunden täglich nur mit Bewerbungen verbringen",
+      "Die gleichen Informationen auf 10 verschiedenen Portalen ausfüllen",
+      "Vergessen, bei welchen Unternehmen Sie sich bereits beworben haben",
+      "Frustriert aufgeben nach 20 Bewerbungen",
+      "Keine Zeit, Anschreiben für jede Stelle anzupassen",
+      "Gute Chancen verpassen, weil Sie sich zu spät beworben haben"
+    ],
+    "solution": "Was wäre, wenn jemand all das für Sie tun würde?"
+  },
+
+  "howItWorks": {
+    "title": "So Funktioniert Es",
+    "steps": [
+      { "title": "Teilen Sie Ihr Profil", "desc": "Laden Sie Ihren Lebenslauf hoch, legen Sie Präferenzen fest — Stellen, Orte, Gehaltsvorstellung. Dauert 5 Minuten." },
+      { "title": "Portal-Zugangsdaten Hinzufügen", "desc": "Der verschlüsselte Tresor speichert Ihre Naukri/LinkedIn-Logins. Werden nur während der Bewerbung verwendet." },
+      { "title": "Wir Bewerben Uns Täglich", "desc": "Unser Team sucht passende Jobs und bewirbt sich in Ihrem Namen. Anschreiben individuell pro Stelle." },
+      { "title": "Bericht + Interviews Erhalten", "desc": "Wöchentlicher PDF/Excel-Bericht mit jeder Bewerbung. Verfolgen Sie Interviewanrufe im Dashboard." }
+    ]
+  },
+
+  "pricing": {
+    "title": "Einfache Preise",
+    "subtitle": "Zahlen Sie pro Paket. Keine versteckten Gebühren. Jederzeit kündbar.",
+    "guarantee": "*Interview-Garantie: Wenn das Ziel in 30 Tagen nicht erreicht wird, ist der nächste Monat kostenlos.",
+    "free": { "name": "Kostenloser Test", "apps": "10 Bewerbungen", "cta": "Kostenlos Starten" },
+    "starter": { "name": "Starter", "apps": "200 Bewerbungen", "cta": "Loslegen", "wasPrice": "₹799", "save": "38% sparen" },
+    "pro": { "name": "Pro", "apps": "500 Bewerbungen", "cta": "Am Beliebtesten", "wasPrice": "₹1,499", "save": "33% sparen" },
+    "max": { "name": "Max", "apps": "1000 Bewerbungen", "cta": "Max Wählen", "wasPrice": "₹3,499", "save": "43% sparen" },
+    "mega": {
+      "name": "Mega",
+      "badge": "58% sparen",
+      "savings": "₹3.500 sparen",
+      "apps": "2.500+ Bewerbungen über 3 Monate",
+      "desc": "Bestes Preis-Leistungs-Verhältnis für ernsthafte Arbeitssuchende. Alles aus Max, aber für 3 Monate mit massivem Rabatt.",
+      "cta": "Mega-Plan wählen",
+      "features": {
+        "all_portals": "Alle Job-Portale abgedeckt",
+        "cover_letters": "Individuelle Anschreiben",
+        "daily_reports": "Tägliche PDF + Excel-Berichte",
+        "whatsapp": "WhatsApp-Updates + Sprachnachrichten",
+        "resume": "Lebenslauf-Neuschreibung & Optimierung",
+        "linkedin": "LinkedIn-Profil-Optimierung",
+        "dedicated_team": "Dediziertes Arbeiter-Team",
+        "guarantee": "30 Interview-Garantie*"
+      }
+    },
+    "popular": "Am Beliebtesten",
+    "current": "Aktuell",
+    "perMonth": "/Monat"
+  },
+
+  "guarantee": {
+    "title": "Interview-Garantie",
+    "desc": "Bei Pro- und Max-Plänen: Wenn Sie nicht mindestens 10 Interviewanrufe innerhalb von 30 Tagen erhalten, ist Ihr nächster Monat komplett kostenlos. So überzeugt sind wir.",
+    "cta": "Jetzt Starten"
+  },
+
+  "freshers": {
+    "title": "Frischer Absolvent? Das ist für Sie.",
+    "desc": "Sie haben den Abschluss. Jetzt brauchen Sie Bewerbungen — viele davon. Wir bewerben uns jeden Monat auf 200-1000 relevante Jobs für Sie, während Sie sich auf Interviews vorbereiten. Die meisten Absolventen erhalten ihren ersten Interviewanruf innerhalb von 10 Tagen.",
+    "cta": "Als Absolvent Starten",
+    "stat1": "200+",
+    "stat1Label": "Bewerbungen/Monat",
+    "stat2": "10 Tage",
+    "stat2Label": "Durchschn. Zeit bis zum ersten Interview",
+    "stat3": "₹499",
+    "stat3Label": "Startpreis"
+  },
+
+  "whatsapp": {
+    "title": "Updates auf WhatsApp",
+    "desc": "Erhalten Sie tägliche Bewerbungs-Updates, wöchentliche Berichte und Interview-Benachrichtigungen direkt auf WhatsApp. Kein Dashboard-Check nötig — wir kommen zu Ihnen.",
+    "daily": "Täglich: \"Heute auf 8 Jobs beworben — TCS, Infosys, Razorpay...\"",
+    "weekly": "Wöchentlich: PDF + Excel-Bericht geliefert",
+    "instant": "Sofort: Interview-Anruf-Benachrichtigungen"
+  },
+
+  "faq": {
+    "title": "Fragen?",
+    "items": [
+      { "q": "Ist es sicher, meine Login-Daten zu teilen?", "a": "Ja. Zugangsdaten werden mit AES-256 verschlüsselt und in einem isolierten Tresor gespeichert. Sie werden nur während der Bewerbung entschlüsselt und danach sofort verworfen." },
+      { "q": "Auf welchen Portalen bewerben Sie sich?", "a": "Naukri, LinkedIn, Indeed, Internshala und Freshersworld. Bei Pro/Max-Plänen decken wir alle Portale ab." },
+      { "q": "Wie weiß ich, dass Sie sich wirklich beworben haben?", "a": "Jede Bewerbung kommt mit einem Screenshot-Nachweis. Sie erhalten auch einen wöchentlichen PDF- und Excel-Bericht." },
+      { "q": "Was ist die Interview-Garantie?", "a": "Bei Pro- und Max-Plänen: Wenn Sie die Ziel-Interviewanrufe innerhalb von 30 Tagen nicht erhalten, ist Ihr nächster Monat kostenlos." },
+      { "q": "Kann ich wählen, auf welche Jobs ich mich bewerbe?", "a": "Ja! Legen Sie Ihre Präferenzen fest — Stellen, Orte, Gehaltsvorstellung, Remote-Präferenz — und unser Team sucht entsprechend." },
+      { "q": "Ich bin Absolvent ohne Erfahrung. Wird das funktionieren?", "a": "Absolut. Absolventen sind unsere Hauptzielgruppe. Wir optimieren für absolventenfreundliche Stellen." }
+    ]
+  },
+
+  "finalCta": {
+    "title": "Hören Sie auf zu bewerben. Fangen Sie an zu interviewen.",
+    "subtitle": "Lassen Sie uns die Bewerbungen erledigen, während Sie sich auf Interviews vorbereiten.",
+    "cta": "10 Kostenlose Bewerbungen Erhalten"
+  },
+
+  "footer": "Wir bewerben uns für Sie auf Jobs.",
+
+  "auth": {
+    "welcomeBack": "Willkommen zurück",
+    "signInSubtitle": "Melden Sie sich als Kunde oder Arbeiter an",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "signIn": "Anmelden",
+    "signingIn": "Anmeldung läuft...",
+    "noAccount": "Kein Konto?",
+    "signUp": "Registrieren",
+    "haveAccount": "Bereits ein Konto?",
+    "createAccount": "Kostenlos Starten",
+    "createAccountSubtitle": "10 kostenlose Bewerbungen zum Start",
+    "joinWorker": "Als Arbeiter Beitreten",
+    "joinWorkerSubtitle": "Verdienen Sie, indem Sie für Kunden auf Jobs bewerben",
+    "iNeedJobs": "Ich brauche Job-Bewerbungen",
+    "iWantToEarn": "Ich möchte verdienen",
+    "fullName": "Vollständiger Name",
+    "whatsappNumber": "WhatsApp-Nummer",
+    "whatsappHint": "Für tägliche Bewerbungs-Updates via WhatsApp",
+    "experienceLevel": "Erfahrungsstufe",
+    "skills": "Fähigkeiten",
+    "preferredRoles": "Bevorzugte Stellen",
+    "preferredLocations": "Bevorzugte Standorte",
+    "createClientBtn": "10 Kostenlose Bewerbungen Erhalten",
+    "createWorkerBtn": "Als Arbeiter Beitreten",
+    "creating": "Wird erstellt...",
+    "uploadResume": "Laden Sie Ihren Lebenslauf hoch",
+    "uploadResumeHint": "PDF, DOC oder DOCX — wir füllen alles für Sie aus",
+    "parsingResume": "Lebenslauf wird gelesen...",
+    "resumeUploaded": "Lebenslauf analysiert! Felder automatisch ausgefüllt.",
+    "resumeParsed": "Lebenslauf analysiert! Überprüfen Sie Ihre Daten unten.",
+    "resumeError": "Lebenslauf konnte nicht analysiert werden. Bitte manuell ausfüllen.",
+    "orFillManually": "oder füllen Sie die Details unten manuell aus"
+  },
+
+  "experience": {
+    "fresher": "Absolvent (0 Jahre)",
+    "0-1": "0-1 Jahre",
+    "1-3": "1-3 Jahre",
+    "3-5": "3-5 Jahre",
+    "5-10": "5-10 Jahre",
+    "10+": "10+ Jahre"
+  },
+
+  "onboarding": {
+    "title": "Vervollständigen Sie Ihr Profil",
+    "subtitle": "Das hilft uns, die richtigen Jobs für Sie zu finden",
+    "step1": "Profil",
+    "step2": "Präferenzen",
+    "step3": "Zugangsdaten",
+    "headline": "Professionelle Überschrift",
+    "headlinePlaceholder": "z.B. B.Tech CSE Absolvent | React & Python",
+    "education": "Ausbildung",
+    "college": "Hochschule",
+    "resumeLink": "Lebenslauf-Link (Google Drive / Dropbox)",
+    "linkedin": "LinkedIn-Profil (optional)",
+    "roles": "Bevorzugte Stellen",
+    "rolesHint": "Kommagetrennt. Wir suchen diese auf Job-Portalen.",
+    "locations": "Bevorzugte Standorte",
+    "salary": "Erwartetes Gehalt (LPA)",
+    "remote": "Offen für Remote-Arbeit",
+    "naukri": "Naukri",
+    "linkedinCreds": "LinkedIn (optional)",
+    "encryptionNote": "Ihre Zugangsdaten werden vor der Speicherung verschlüsselt und nur während des Bewerbungsprozesses entschlüsselt.",
+    "back": "Zurück",
+    "next": "Weiter",
+    "complete": "Abschließen & Starten",
+    "saving": "Wird gespeichert...",
+    "skipNote": "Sie können die Zugangsdaten überspringen und später über Ihr Dashboard hinzufügen."
+  },
+
+  "dashboard": {
+    "title": "Dashboard",
+    "applicationsUsed": "Bewerbungen verwendet",
+    "startApplying": "Bewerbungen Starten",
+    "applicationsMade": "Bewerbungen Gemacht",
+    "interviewCalls": "Interview-Anrufe",
+    "conversionRate": "Konversionsrate",
+    "totalOrders": "Gesamtaufträge",
+    "guaranteeActive": "Interview-Garantie Aktiv",
+    "callsReceived": "Anrufe erhalten",
+    "targetMet": "Ziel erreicht!",
+    "yourOrders": "Ihre Aufträge",
+    "noOrders": "Noch keine Aufträge",
+    "noOrdersHint": "Klicken Sie auf \"Bewerbungen Starten\" um Ihren ersten Auftrag zu erstellen",
+    "orderCreated": "Auftrag erstellt! Ein Arbeiter beginnt bald mit den Bewerbungen.",
+    "applications": "Bewerbungen",
+    "interviewCallCount": "Interview-Anruf(e)",
+    "upgradeTitle": "Mehr Bewerbungen gewünscht?",
+    "upgradeDesc": "Auf Pro upgraden für 500 Bewerbungen + Interview-Garantie für nur ₹999",
+    "viewPlans": "Pläne Ansehen"
+  },
+
+  "order": {
+    "complete": "abgeschlossen",
+    "worker": "Arbeiter",
+    "logInterview": "Interview-Anruf Erfassen",
+    "logInterviewHint": "Anruf von einem Unternehmen erhalten? Erfassen Sie ihn hier, um Ihren Fortschritt zu verfolgen.",
+    "companyName": "Firmenname",
+    "role": "Stelle (optional)",
+    "logBtn": "Interview Erfassen",
+    "applications": "Bewerbungen",
+    "generateReport": "Bericht Erstellen",
+    "noAppsYet": "Bewerbungen erscheinen hier, sobald der Arbeiter sich bewirbt...",
+    "reports": "Berichte",
+    "reviewApprove": "Prüfen & Genehmigen",
+    "approveBtn": "Genehmigen & Abschließen",
+    "howWasWorker": "Wie war der Arbeiter? (optional)",
+    "liveUpdates": "Live-Updates aktiv"
+  },
+
+  "worker": {
+    "dashboard": "Arbeiter-Dashboard",
+    "earnings": "Verdienst",
+    "applicationsFiled": "Bewerbungen Eingereicht",
+    "rating": "Bewertung",
+    "activeOrders": "Aktive Aufträge",
+    "availableOrders": "Verfügbare Aufträge",
+    "myOrders": "Meine Aufträge",
+    "claim": "Beanspruchen",
+    "payout": "Auszahlung",
+    "noOrders": "Noch keine Aufträge. Beanspruchen Sie einen oben, um zu verdienen.",
+    "startApplying": "Bewerbungen Starten",
+    "logApplication": "Bewerbung Erfassen",
+    "company": "Firmenname",
+    "jobTitle": "Stellenbezeichnung",
+    "portal": "Portal",
+    "location": "Standort",
+    "salary": "Gehalt (optional)",
+    "jobUrl": "Job-URL (optional)",
+    "coverLetter": "Individuelles Anschreiben verwendet",
+    "notes": "Notizen (optional)",
+    "logBtn": "Bewerbung Erfassen",
+    "logging": "Wird erfasst...",
+    "submitReview": "Fertig? Zur Prüfung Einreichen",
+    "submitNotes": "Zusammenfassung für den Kunden (was getan wurde, etwaige Probleme)",
+    "submitBtn": "Zur Prüfung Einreichen",
+    "clientInstructions": "Kundenanweisungen",
+    "targetRoles": "Zielstellen",
+    "locations": "Standorte",
+    "portals": "Portale",
+    "customInstructions": "Individuelle Anweisungen"
+  },
+
+  "vault": {
+    "title": "Zugangsdaten-Tresor",
+    "subtitle": "Verschlüsselte Zugangsdaten werden sicher nur während der Aufgabenausführung mit Arbeitern geteilt.",
+    "addCredential": "Zugangsdaten Hinzufügen",
+    "key": "Schlüssel",
+    "value": "Wert",
+    "store": "Speichern",
+    "quickAdd": "Schnell hinzufügen:",
+    "stored": "Gespeicherte Zugangsdaten",
+    "noCredentials": "Keine Zugangsdaten gespeichert"
+  },
+
+  "plans": {
+    "title": "Einfache Pläne. Echte Ergebnisse.",
+    "subtitle": "Mehr Bewerbungen = mehr Interviews. Wählen Sie Ihr Tempo."
+  },
+
+  "serviceMode": {
+    "title": "Wie sollen wir bewerben?",
+    "subtitle": "Wählen Sie, wie wir in Ihrem Namen auf Jobs bewerben sollen.",
+    "portal": {
+      "title": "Portal-Bewerbung",
+      "desc": "Wir loggen uns in Ihre Naukri, LinkedIn und Indeed Konten ein und bewerben uns direkt. Erfordert Portal-Zugangsdaten (verschlüsselt und sicher)."
+    },
+    "direct": {
+      "title": "Direkt-Bewerbung — Kein Login Nötig",
+      "desc": "Wir bewerben uns auf Unternehmens-Karriereseiten und senden Kaltakquise-E-Mails an HR in Ihrem Namen. Keine Passwörter erforderlich.",
+      "tag1": "Unternehmens-Websites",
+      "tag2": "HR-E-Mails",
+      "tag3": "Keine Zugangsdaten Nötig",
+      "badge": "Direkt"
+    }
+  },
+
+  "common": {
+    "refresh": "Aktualisieren",
+    "back": "Zurück",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "loading": "Wird geladen...",
+    "details": "Details"
+  },
+
+  "status": {
+    "pending": "Wartet auf Arbeiter",
+    "assigned": "Arbeiter zugewiesen",
+    "in_progress": "Bewerbungen laufen...",
+    "review_pending": "Prüfung erforderlich",
+    "completed": "Abgeschlossen",
+    "cancelled": "Abgebrochen"
+  },
+
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch"
+  },
+
+  "contact": {
+    "title": "Sprechen Sie mit uns",
+    "subtitle": "Wir antworten normalerweise innerhalb von Minuten",
+    "whatsapp": "Auf WhatsApp chatten",
+    "whatsappHint": "Schnelle Antworten, 9–21 Uhr IST",
+    "email": "Senden Sie uns eine E-Mail",
+    "whatsappMessage": "Hallo TaskDone! Ich habe eine Frage zu Ihrem Bewerbungsservice.",
+    "emailSubject": "Anfrage zu TaskDone"
+  }
+}
