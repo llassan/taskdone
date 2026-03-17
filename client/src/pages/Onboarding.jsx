@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 import { useAuth } from '../context/AuthContext';
 import api from '../utils/api';
 import toast from 'react-hot-toast';
-import { FiUpload, FiArrowRight, FiCheck } from 'react-icons/fi';
+import { FiArrowRight, FiCheck } from 'react-icons/fi';
 
 export default function Onboarding() {
   const { t } = useTranslation();
@@ -14,7 +14,7 @@ export default function Onboarding() {
   const [step, setStep] = useState(0);
   const [loading, setLoading] = useState(false);
 
-  const steps = [t('onboarding.step1'), t('onboarding.step2'), t('onboarding.step3')];
+  const steps = [t('onboarding.step1'), t('onboarding.step2')];
 
   const [headline, setHeadline] = useState(user?.profile?.headline || '');
   const [education, setEducation] = useState(user?.profile?.education || '');
@@ -26,11 +26,6 @@ export default function Onboarding() {
   const [preferredRoles, setPreferredRoles] = useState((user?.profile?.preferredRoles || []).join(', '));
   const [preferredLocations, setPreferredLocations] = useState((user?.profile?.preferredLocations || []).join(', '));
   const [skills, setSkills] = useState((user?.profile?.skills || []).join(', '));
-
-  const [naukriEmail, setNaukriEmail] = useState('');
-  const [naukriPass, setNaukriPass] = useState('');
-  const [linkedinEmail, setLinkedinEmail] = useState('');
-  const [linkedinPass, setLinkedinPass] = useState('');
 
   const prefix = `/${lang || 'en'}`;
 
@@ -45,16 +40,6 @@ export default function Onboarding() {
         preferredRoles: preferredRoles.split(',').map(s => s.trim()).filter(Boolean),
         preferredLocations: preferredLocations.split(',').map(s => s.trim()).filter(Boolean),
       });
-
-      // Save credentials
-      const creds = {};
-      if (naukriEmail) creds.naukri_email = naukriEmail;
-      if (naukriPass) creds.naukri_password = naukriPass;
-      if (linkedinEmail) creds.linkedin_email = linkedinEmail;
-      if (linkedinPass) creds.linkedin_password = linkedinPass;
-      if (Object.keys(creds).length > 0) {
-        await api.post('/user/vault', { credentials: creds });
-      }
 
       await refreshUser();
       toast.success(t('onboarding.successToast'));
@@ -163,35 +148,12 @@ export default function Onboarding() {
             </div>
           )}
 
-          {step === 2 && (
-            <div className="space-y-4">
-              <h2 className="font-semibold text-gray-800 mb-2">{t('onboarding.linkedinCreds')}</h2>
-              <p className="text-sm text-gray-500 mb-4">{t('onboarding.encryptionNote')}</p>
-
-              <div className="bg-gray-50 rounded-lg p-4 space-y-3">
-                <h3 className="text-sm font-semibold text-gray-700">{t('onboarding.naukri')}</h3>
-                <input value={naukriEmail} onChange={e => setNaukriEmail(e.target.value)} className="input-field" placeholder={t('onboarding.naukriEmailPlaceholder')} />
-                <input type="password" value={naukriPass} onChange={e => setNaukriPass(e.target.value)} className="input-field" placeholder={t('onboarding.naukriPasswordPlaceholder')} />
-              </div>
-
-              <div className="bg-gray-50 rounded-lg p-4 space-y-3">
-                <h3 className="text-sm font-semibold text-gray-700">{t('onboarding.linkedinCreds')}</h3>
-                <input value={linkedinEmail} onChange={e => setLinkedinEmail(e.target.value)} className="input-field" placeholder={t('onboarding.linkedinEmailPlaceholder')} />
-                <input type="password" value={linkedinPass} onChange={e => setLinkedinPass(e.target.value)} className="input-field" placeholder={t('onboarding.linkedinPasswordPlaceholder')} />
-              </div>
-
-              <div className="bg-emerald-50 rounded-lg p-3 text-xs text-emerald-700">
-                {t('onboarding.encryptionDetail')}
-              </div>
-            </div>
-          )}
-
           {/* Navigation */}
           <div className="flex justify-between mt-6 pt-4 border-t border-gray-100">
             {step > 0 ? (
               <button onClick={() => setStep(step - 1)} className="btn-secondary text-sm">{t('onboarding.back')}</button>
             ) : <div />}
-            {step < 2 ? (
+            {step < 1 ? (
               <button onClick={() => setStep(step + 1)} className="btn-primary flex items-center gap-2 text-sm">
                 {t('onboarding.next')} <FiArrowRight />
               </button>

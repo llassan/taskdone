@@ -17,6 +17,7 @@
 
   "hero": {
     "badge": "Vertraut von Arbeitssuchenden in ganz Indien",
+    "trustBadge": "Keine Passwörter nötig — wir bewerben uns direkt auf Unternehmenswebsites.",
     "title1": "Wir Bewerben Uns auf Jobs",
     "title2": "Für Sie.",
     "subtitle": "Hören Sie auf, stundenlang Formulare auszufüllen. Unser geschultes Team bewirbt sich auf Naukri, LinkedIn und Indeed in Ihrem Namen — mit Screenshot-Nachweis für jede Bewerbung.",
@@ -51,7 +52,7 @@
     "title": "So Funktioniert Es",
     "steps": [
       { "title": "Teilen Sie Ihr Profil", "desc": "Laden Sie Ihren Lebenslauf hoch, legen Sie Präferenzen fest — Stellen, Orte, Gehaltsvorstellung. Dauert 5 Minuten." },
-      { "title": "Portal-Zugangsdaten Hinzufügen", "desc": "Der verschlüsselte Tresor speichert Ihre Naukri/LinkedIn-Logins. Werden nur während der Bewerbung verwendet." },
+      { "title": "Präferenzen Festlegen", "desc": "Teilen Sie uns Ihre Zielstellen, Standorte und Gehaltsvorstellung mit. Wir finden passende Jobs auf Unternehmens-Karriereseiten — keine Portal-Logins nötig." },
       { "title": "Wir Bewerben Uns Täglich", "desc": "Unser Team sucht passende Jobs und bewirbt sich in Ihrem Namen. Anschreiben individuell pro Stelle." },
       { "title": "Bericht + Interviews Erhalten", "desc": "Wöchentlicher PDF/Excel-Bericht mit jeder Bewerbung. Verfolgen Sie Interviewanrufe im Dashboard." }
     ]
@@ -183,7 +184,7 @@
     "subtitle": "Das hilft uns, die richtigen Jobs für Sie zu finden",
     "step1": "Profil",
     "step2": "Präferenzen",
-    "step3": "Zugangsdaten",
+    "step3": "Überprüfung",
     "headline": "Professionelle Überschrift",
     "headlinePlaceholder": "z.B. B.Tech CSE Absolvent | React & Python",
     "education": "Ausbildung",
@@ -308,7 +309,8 @@
       "tag1": "Unternehmens-Websites",
       "tag2": "HR-E-Mails",
       "tag3": "Keine Zugangsdaten Nötig",
-      "badge": "Direkt"
+      "badge": "Direkt",
+      "recommended": "Empfohlen"
     }
   },
 

@@ -17,6 +17,7 @@
 
   "hero": {
     "badge": "Trusted by job seekers across India",
+    "trustBadge": "No passwords needed — we apply on company websites directly.",
     "title1": "We Apply to Jobs",
     "title2": "For You.",
     "subtitle": "Stop spending hours filling forms. Our trained team applies to jobs on Naukri, LinkedIn & Indeed on your behalf — with screenshot proof of every application.",
@@ -51,7 +52,7 @@
     "title": "How It Works",
     "steps": [
       { "title": "Share Your Profile", "desc": "Upload resume, set preferences — roles, locations, salary range. Takes 5 minutes." },
-      { "title": "Add Portal Credentials", "desc": "Encrypted vault stores your Naukri/LinkedIn logins. Only used during applications." },
+      { "title": "Set Your Preferences", "desc": "Tell us your target roles, locations, and salary range. We match jobs from company career pages — no portal logins needed." },
       { "title": "We Apply Daily", "desc": "Our team searches matching jobs and applies on your behalf. Cover letters customized per role." },
       { "title": "Get Report + Interviews", "desc": "Weekly PDF/Excel report with every application. Track interview calls in the dashboard." }
     ]
@@ -183,7 +184,7 @@
     "subtitle": "This helps us apply to the right jobs for you",
     "step1": "Profile",
     "step2": "Preferences",
-    "step3": "Credentials",
+    "step3": "Review",
     "headline": "Professional Headline",
     "headlinePlaceholder": "e.g. B.Tech CSE Graduate | React & Python",
     "education": "Education",
@@ -308,7 +309,8 @@
       "tag1": "Company Websites",
       "tag2": "HR Emails",
       "tag3": "No Credentials Needed",
-      "badge": "Direct"
+      "badge": "Direct",
+      "recommended": "Recommended"
     }
   },
 

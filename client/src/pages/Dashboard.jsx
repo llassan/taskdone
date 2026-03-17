@@ -100,6 +100,27 @@ export default function Dashboard() {
             <p className="text-sm text-gray-500 mb-6">{t('serviceMode.subtitle')}</p>
 
             <div className="space-y-4">
+              {/* Direct Mode */}
+              <button
+                onClick={() => createOrder('direct')}
+                className="w-full text-left p-4 rounded-xl border-2 border-blue-400 bg-blue-50 hover:border-blue-500 transition-all group"
+              >
+                <div className="flex items-start gap-4">
+                  <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:bg-blue-200">
+                    <FiMail className="text-blue-600" size={22} />
+                  </div>
+                  <div>
+                    <h3 className="font-semibold text-gray-900">{t('serviceMode.direct.title')}</h3>
+                    <p className="text-sm text-gray-500 mt-1">{t('serviceMode.direct.desc')}</p>
+                    <div className="flex flex-wrap gap-2 mt-2">
+                      <span className="text-xs bg-blue-50 text-blue-700 px-2 py-0.5 rounded">{t('serviceMode.direct.tag1')}</span>
+                      <span className="text-xs bg-blue-50 text-blue-700 px-2 py-0.5 rounded">{t('serviceMode.direct.tag2')}</span>
+                      <span className="text-xs bg-green-50 text-green-700 px-2 py-0.5 rounded">{t('serviceMode.direct.tag3')}</span>
+                    </div>
+                  </div>
+                </div>
+              </button>
+
               {/* Portal Mode */}
               <button
                 onClick={() => createOrder('portal')}
@@ -116,27 +137,6 @@ export default function Dashboard() {
                       <span className="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded">Naukri</span>
                       <span className="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded">LinkedIn</span>
                       <span className="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded">Indeed</span>
-                    </div>
-                  </div>
-                </div>
-              </button>
-
-              {/* Direct Mode */}
-              <button
-                onClick={() => createOrder('direct')}
-                className="w-full text-left p-4 rounded-xl border-2 border-gray-200 hover:border-blue-400 hover:bg-blue-50 transition-all group"
-              >
-                <div className="flex items-start gap-4">
-                  <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:bg-blue-200">
-                    <FiMail className="text-blue-600" size={22} />
-                  </div>
-                  <div>
-                    <h3 className="font-semibold text-gray-900">{t('serviceMode.direct.title')}</h3>
-                    <p className="text-sm text-gray-500 mt-1">{t('serviceMode.direct.desc')}</p>
-                    <div className="flex flex-wrap gap-2 mt-2">
-                      <span className="text-xs bg-blue-50 text-blue-700 px-2 py-0.5 rounded">{t('serviceMode.direct.tag1')}</span>
-                      <span className="text-xs bg-blue-50 text-blue-700 px-2 py-0.5 rounded">{t('serviceMode.direct.tag2')}</span>
-                      <span className="text-xs bg-green-50 text-green-700 px-2 py-0.5 rounded">{t('serviceMode.direct.tag3')}</span>
                     </div>
                   </div>
                 </div>

@@ -17,6 +17,7 @@
 
   "hero": {
     "badge": "Confiado por buscadores de empleo en toda India",
+    "trustBadge": "Sin contraseñas necesarias — aplicamos directamente en sitios web de empresas.",
     "title1": "Aplicamos a Empleos",
     "title2": "Por Ti.",
     "subtitle": "Deja de pasar horas llenando formularios. Nuestro equipo capacitado aplica a empleos en Naukri, LinkedIn e Indeed en tu nombre — con captura de pantalla como prueba de cada solicitud.",
@@ -51,7 +52,7 @@
     "title": "Cómo Funciona",
     "steps": [
       { "title": "Comparte Tu Perfil", "desc": "Sube tu CV, establece preferencias — puestos, ubicaciones, rango salarial. Toma 5 minutos." },
-      { "title": "Agrega Credenciales del Portal", "desc": "La bóveda encriptada almacena tus datos de Naukri/LinkedIn. Solo se usan durante las solicitudes." },
+      { "title": "Configura Tus Preferencias", "desc": "Dinos tus puestos objetivo, ubicaciones y rango salarial. Buscamos empleos en páginas de carreras de empresas — sin necesidad de iniciar sesión en portales." },
       { "title": "Aplicamos Diariamente", "desc": "Nuestro equipo busca empleos que coincidan y aplica en tu nombre. Cartas personalizadas por puesto." },
       { "title": "Recibe Reporte + Entrevistas", "desc": "Reporte semanal PDF/Excel con cada solicitud. Rastrea llamadas de entrevista en el panel." }
     ]
@@ -183,7 +184,7 @@
     "subtitle": "Esto nos ayuda a aplicar a los empleos correctos para ti",
     "step1": "Perfil",
     "step2": "Preferencias",
-    "step3": "Credenciales",
+    "step3": "Revisión",
     "headline": "Titular Profesional",
     "headlinePlaceholder": "ej. Graduado B.Tech CSE | React & Python",
     "education": "Educación",
@@ -308,7 +309,8 @@
       "tag1": "Sitios Web de Empresas",
       "tag2": "Emails a HR",
       "tag3": "Sin Credenciales",
-      "badge": "Directo"
+      "badge": "Directo",
+      "recommended": "Recomendado"
     }
   },
 

@@ -17,6 +17,7 @@
 
   "hero": {
     "badge": "Approuvé par les chercheurs d'emploi à travers l'Inde",
+    "trustBadge": "Aucun mot de passe nécessaire — nous postulons directement sur les sites web des entreprises.",
     "title1": "Nous Postulons aux Emplois",
     "title2": "Pour Vous.",
     "subtitle": "Arrêtez de passer des heures à remplir des formulaires. Notre équipe formée postule aux emplois sur Naukri, LinkedIn et Indeed en votre nom — avec capture d'écran comme preuve de chaque candidature.",
@@ -51,7 +52,7 @@
     "title": "Comment Ça Marche",
     "steps": [
       { "title": "Partagez Votre Profil", "desc": "Téléchargez votre CV, définissez vos préférences — postes, lieux, fourchette salariale. Prend 5 minutes." },
-      { "title": "Ajoutez les Identifiants du Portail", "desc": "Le coffre-fort chiffré stocke vos identifiants Naukri/LinkedIn. Utilisés uniquement lors des candidatures." },
+      { "title": "Définissez Vos Préférences", "desc": "Indiquez-nous vos postes cibles, lieux et fourchette salariale. Nous trouvons des emplois sur les pages carrières des entreprises — aucune connexion aux portails nécessaire." },
       { "title": "Nous Postulons Quotidiennement", "desc": "Notre équipe recherche les emplois correspondants et postule en votre nom. Lettres de motivation personnalisées par poste." },
       { "title": "Recevez Rapport + Entretiens", "desc": "Rapport hebdomadaire PDF/Excel avec chaque candidature. Suivez les appels d'entretien dans le tableau de bord." }
     ]
@@ -183,7 +184,7 @@
     "subtitle": "Cela nous aide à postuler aux bons emplois pour vous",
     "step1": "Profil",
     "step2": "Préférences",
-    "step3": "Identifiants",
+    "step3": "Vérification",
     "headline": "Titre Professionnel",
     "headlinePlaceholder": "ex. Diplômé B.Tech CSE | React & Python",
     "education": "Formation",
@@ -308,7 +309,8 @@
       "tag1": "Sites Web Entreprises",
       "tag2": "Emails aux RH",
       "tag3": "Sans Identifiants",
-      "badge": "Direct"
+      "badge": "Direct",
+      "recommended": "Recommandé"
     }
   },
 

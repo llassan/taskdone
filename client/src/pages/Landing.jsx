@@ -32,8 +32,11 @@ export default function Landing() {
           <p className="text-lg md:text-xl text-gray-500 max-w-2xl mx-auto mb-3 leading-relaxed">
             {t('hero.subtitle')}
           </p>
-          <p className="text-base font-semibold text-emerald-600 mb-10">
+          <p className="text-base font-semibold text-emerald-600 mb-3">
             {t('hero.pricing')}
+          </p>
+          <p className="text-sm text-gray-400 mb-10">
+            {t('hero.trustBadge')}
           </p>
           <div className="flex gap-4 justify-center flex-wrap">
             <Link to={`${prefix}/register`} className="group bg-emerald-600 text-white px-8 py-4 rounded-2xl font-semibold text-lg hover:bg-emerald-700 transition-all shadow-xl shadow-emerald-200/50 hover:shadow-emerald-300/50 hover:-translate-y-0.5 flex items-center gap-2">
@@ -117,20 +120,8 @@ export default function Landing() {
         <h2 className="text-3xl font-bold text-center text-gray-900 mb-3">{t('serviceMode.title')}</h2>
         <p className="text-center text-gray-500 mb-10">{t('serviceMode.subtitle')}</p>
         <div className="grid md:grid-cols-2 gap-6">
-          <div className="card border-2 border-emerald-200 hover:border-emerald-400 transition-colors">
-            <div className="w-14 h-14 bg-emerald-100 rounded-2xl flex items-center justify-center mb-4">
-              <FiShield className="text-emerald-600 text-2xl" />
-            </div>
-            <h3 className="text-lg font-bold text-gray-900 mb-2">{t('serviceMode.portal.title')}</h3>
-            <p className="text-sm text-gray-500 mb-4">{t('serviceMode.portal.desc')}</p>
-            <div className="flex flex-wrap gap-2">
-              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">Naukri</span>
-              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">LinkedIn</span>
-              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">Indeed</span>
-              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">Internshala</span>
-            </div>
-          </div>
-          <div className="card border-2 border-blue-200 hover:border-blue-400 transition-colors">
+          <div className="card border-2 border-blue-200 hover:border-blue-400 transition-colors relative">
+            <div className="absolute -top-3 right-3 bg-blue-600 text-white text-xs px-3 py-1 rounded-full font-semibold">{t('serviceMode.direct.recommended')}</div>
             <div className="flex items-center gap-3 mb-4">
               <div className="w-14 h-14 bg-blue-100 rounded-2xl flex items-center justify-center">
                 <FiMail className="text-blue-600 text-2xl" />
@@ -142,6 +133,19 @@ export default function Landing() {
             <div className="flex flex-wrap gap-2">
               <span className="text-xs bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full font-medium">{t('serviceMode.direct.tag1')}</span>
               <span className="text-xs bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full font-medium">{t('serviceMode.direct.tag2')}</span>
+            </div>
+          </div>
+          <div className="card border-2 border-emerald-200 hover:border-emerald-400 transition-colors">
+            <div className="w-14 h-14 bg-emerald-100 rounded-2xl flex items-center justify-center mb-4">
+              <FiShield className="text-emerald-600 text-2xl" />
+            </div>
+            <h3 className="text-lg font-bold text-gray-900 mb-2">{t('serviceMode.portal.title')}</h3>
+            <p className="text-sm text-gray-500 mb-4">{t('serviceMode.portal.desc')}</p>
+            <div className="flex flex-wrap gap-2">
+              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">Naukri</span>
+              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">LinkedIn</span>
+              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">Indeed</span>
+              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">Internshala</span>
             </div>
           </div>
         </div>
