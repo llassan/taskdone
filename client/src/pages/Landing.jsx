@@ -137,15 +137,15 @@ export default function Landing() {
           </div>
           <div className="card border-2 border-emerald-200 hover:border-emerald-400 transition-colors">
             <div className="w-14 h-14 bg-emerald-100 rounded-2xl flex items-center justify-center mb-4">
-              <FiShield className="text-emerald-600 text-2xl" />
+              <FiFileText className="text-emerald-600 text-2xl" />
             </div>
             <h3 className="text-lg font-bold text-gray-900 mb-2">{t('serviceMode.portal.title')}</h3>
             <p className="text-sm text-gray-500 mb-4">{t('serviceMode.portal.desc')}</p>
             <div className="flex flex-wrap gap-2">
-              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">Naukri</span>
-              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">LinkedIn</span>
-              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">Indeed</span>
-              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">Internshala</span>
+              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">{t('serviceMode.portal.tag1')}</span>
+              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">{t('serviceMode.portal.tag2')}</span>
+              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">{t('serviceMode.portal.tag3')}</span>
+              <span className="text-xs bg-emerald-50 text-emerald-700 px-2.5 py-1 rounded-full font-medium">{t('serviceMode.portal.tag4')}</span>
             </div>
           </div>
         </div>

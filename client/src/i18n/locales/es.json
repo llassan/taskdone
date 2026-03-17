@@ -300,8 +300,12 @@
     "title": "¿Cómo debemos aplicar?",
     "subtitle": "Elige cómo quieres que apliquemos a empleos en tu nombre.",
     "portal": {
-      "title": "Aplicar por Portal",
-      "desc": "Iniciamos sesión en tus cuentas de Naukri, LinkedIn e Indeed y aplicamos directamente. Requiere compartir credenciales del portal (encriptadas y seguras)."
+      "title": "Aplicación Guiada",
+      "desc": "Encontramos empleos que coinciden y preparamos cartas de presentación personalizadas. Recibes una lista lista para aplicar — solo haz clic. Sin contraseñas.",
+      "tag1": "Lista de Empleos Curada",
+      "tag2": "Cartas Personalizadas",
+      "tag3": "Tú Aplicas",
+      "tag4": "Sin Contraseñas"
     },
     "direct": {
       "title": "Aplicar Directo — Sin Login",

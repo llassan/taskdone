@@ -300,8 +300,12 @@
     "title": "Wie sollen wir bewerben?",
     "subtitle": "Wählen Sie, wie wir in Ihrem Namen auf Jobs bewerben sollen.",
     "portal": {
-      "title": "Portal-Bewerbung",
-      "desc": "Wir loggen uns in Ihre Naukri, LinkedIn und Indeed Konten ein und bewerben uns direkt. Erfordert Portal-Zugangsdaten (verschlüsselt und sicher)."
+      "title": "Geführte Bewerbung",
+      "desc": "Wir finden passende Jobs und erstellen individuelle Anschreiben. Sie erhalten eine bewerbungsfertige Liste — einfach klicken. Keine Passwörter nötig.",
+      "tag1": "Kuratierte Jobliste",
+      "tag2": "Individuelle Anschreiben",
+      "tag3": "Sie Bewerben Sich",
+      "tag4": "Keine Passwörter"
     },
     "direct": {
       "title": "Direkt-Bewerbung — Kein Login Nötig",

@@ -300,8 +300,12 @@
     "title": "Comment devons-nous postuler ?",
     "subtitle": "Choisissez comment vous voulez que nous postulions en votre nom.",
     "portal": {
-      "title": "Postuler via Portail",
-      "desc": "Nous nous connectons à vos comptes Naukri, LinkedIn et Indeed et postulons directement. Nécessite le partage des identifiants (chiffrés et sécurisés)."
+      "title": "Candidature Guidée",
+      "desc": "Nous trouvons les emplois correspondants et préparons des lettres de motivation personnalisées. Vous recevez une liste prête à postuler — cliquez simplement. Aucun mot de passe partagé.",
+      "tag1": "Liste d'Emplois Sélectionnés",
+      "tag2": "Lettres Personnalisées",
+      "tag3": "Vous Postulez",
+      "tag4": "Sans Mot de Passe"
     },
     "direct": {
       "title": "Postuler Direct — Sans Connexion",

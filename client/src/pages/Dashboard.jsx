@@ -121,22 +121,22 @@ export default function Dashboard() {
                 </div>
               </button>
 
-              {/* Portal Mode */}
+              {/* Guided Mode */}
               <button
                 onClick={() => createOrder('portal')}
                 className="w-full text-left p-4 rounded-xl border-2 border-gray-200 hover:border-emerald-400 hover:bg-emerald-50 transition-all group"
               >
                 <div className="flex items-start gap-4">
                   <div className="w-12 h-12 bg-emerald-100 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:bg-emerald-200">
-                    <FiShield className="text-emerald-600" size={22} />
+                    <FiFileText className="text-emerald-600" size={22} />
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">{t('serviceMode.portal.title')}</h3>
                     <p className="text-sm text-gray-500 mt-1">{t('serviceMode.portal.desc')}</p>
                     <div className="flex flex-wrap gap-2 mt-2">
-                      <span className="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded">Naukri</span>
-                      <span className="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded">LinkedIn</span>
-                      <span className="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded">Indeed</span>
+                      <span className="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded">{t('serviceMode.portal.tag1')}</span>
+                      <span className="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded">{t('serviceMode.portal.tag2')}</span>
+                      <span className="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded">{t('serviceMode.portal.tag3')}</span>
                     </div>
                   </div>
                 </div>

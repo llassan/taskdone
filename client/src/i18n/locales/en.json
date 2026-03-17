@@ -300,8 +300,12 @@
     "title": "How should we apply?",
     "subtitle": "Choose how you want us to apply for jobs on your behalf.",
     "portal": {
-      "title": "Portal Apply",
-      "desc": "We log into your Naukri, LinkedIn & Indeed accounts and apply directly. Requires sharing portal credentials (encrypted & secure)."
+      "title": "Guided Apply",
+      "desc": "We find matching jobs and prepare custom cover letters for each. You get a ready-to-apply list — just click apply. No passwords shared.",
+      "tag1": "Curated Job List",
+      "tag2": "Custom Cover Letters",
+      "tag3": "You Click Apply",
+      "tag4": "No Passwords"
     },
     "direct": {
       "title": "Direct Apply — No Login Needed",
