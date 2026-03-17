@@ -1,6 +1,6 @@
 {
   "brand": "TaskDone",
-  "tagline": "We apply to jobs for you.",
+  "tagline": "We apply jobs for you.",
 
   "nav": {
     "dashboard": "Dashboard",
@@ -133,7 +133,7 @@
     "cta": "Get 10 Free Applications"
   },
 
-  "footer": "We apply to jobs for you.",
+  "footer": "We apply jobs for you.",
 
   "auth": {
     "welcomeBack": "Welcome back",
